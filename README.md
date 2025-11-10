@@ -98,8 +98,6 @@ Email: `prabeendutta@gmail.com`
 
 Supervisor: **Naman Bhalla**
 
-Date of Submission: **April 21, 2025**
-
 ---
 
 ## License
